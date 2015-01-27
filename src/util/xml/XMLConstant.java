@@ -10,5 +10,7 @@ public interface XMLConstant {
 	public static String		TAG_DBCONNECTION	=	"DBConnection";
 	public static String		TAG_CONNECTIONPOOL	=	"ConnectionPool";
 	
+	public static String		TAG_TEST			=	"Test";
+	
 	
 }
