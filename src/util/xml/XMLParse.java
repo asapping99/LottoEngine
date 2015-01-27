@@ -55,5 +55,6 @@ public class XMLParse {
 	
 	protected static void test() {
 		System.out.println("테스트 입니다.");
+		System.out.println("테스트 입니다2222.");
 	}
 }
